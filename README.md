@@ -1,2 +1,3 @@
 # knowledge-base
-🦉A collection of development information
+
+🦉 When in doubt, go to the library.
